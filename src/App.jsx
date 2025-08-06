@@ -35,7 +35,6 @@ function App() {
             <Route path="productpage" element={<ProductPage />} />
             <Route path="cart" element={<Cart />} />
             <Route path="payment" element={<Payment />} />
-            <Route path="orders" element={<Orders />} />
           </Route>
         </Routes>
       </Router>
